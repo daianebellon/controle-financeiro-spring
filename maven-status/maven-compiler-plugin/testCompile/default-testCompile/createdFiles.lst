@@ -1,0 +1,16 @@
+br\com\daianebellon\controlefinanceiro\validation\ContaInputDtoValidatorTest.class
+br\com\daianebellon\controlefinanceiro\validation\AtualizarSaldoContaValidatorTest.class
+br\com\daianebellon\controlefinanceiro\usecase\categoria\CadastrarCategoriaTest.class
+br\com\daianebellon\controlefinanceiro\usecase\categoria\BuscarCategoriaPeloIdTest.class
+br\com\daianebellon\controlefinanceiro\usecase\movimentacao\CadastrarMovimentacaoTest.class
+br\com\daianebellon\controlefinanceiro\usecase\movimentacao\BuscarMovimentacaoPeloIdTest.class
+br\com\daianebellon\controlefinanceiro\validation\CategoriaInputDtoValidatorTest.class
+br\com\daianebellon\controlefinanceiro\validation\IdValidatorTest.class
+br\com\daianebellon\controlefinanceiro\usecase\conta\CadastrarContaTest.class
+br\com\daianebellon\controlefinanceiro\ControleFinanceiroApplicationTests.class
+br\com\daianebellon\controlefinanceiro\usecase\movimentacao\ExcluirMovimentacaoTest.class
+br\com\daianebellon\controlefinanceiro\usecase\conta\AtualizarSaldoContaTest.class
+br\com\daianebellon\controlefinanceiro\usecase\categoria\ExcluirCategoriaTest.class
+br\com\daianebellon\controlefinanceiro\usecase\conta\BuscarContaPeloIdTest.class
+br\com\daianebellon\controlefinanceiro\validation\MovimentacaoInputDtoValidatorTest.class
+br\com\daianebellon\controlefinanceiro\usecase\conta\ExcluirContaTest.class
